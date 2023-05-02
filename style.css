@@ -1,0 +1,24 @@
+.col-md-5{
+    margin-top: 175px !important;
+}
+
+p{
+    font-weight: bolder;
+    font-size: 25px;
+}
+
+input[type="text"]{
+    width: 85%;
+    border: 2px solid black;
+}
+
+li{
+    list-style-type: none;
+    display: inline;
+    margin: 20px;
+    font-size: 20px;
+}
+
+i{
+    color: red;
+}
